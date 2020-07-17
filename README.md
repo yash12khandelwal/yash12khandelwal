@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **itsShnik/itsShnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://cdn131.picsart.com/325363214023211.png?type=webp&to=min&r=1280" width="250" height="250">
+</p>
