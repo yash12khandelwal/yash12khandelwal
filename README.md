@@ -1,7 +1,5 @@
 <h2> Hello! I'm Nikhil.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
 - 🤔 &nbsp; Research at the intersection of machine learning, computer vision and natural language processing
 - 🎓 &nbsp; Computer Science at the Indian Institute of Technology, Kharagpur
 - 💼 &nbsp; Research internships at the SHI lab, University of Oregon and ATLAS group, CUHK (CERN)
@@ -16,7 +14,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+🤝🏻 **Connect with Me**
 
 <p align="center">
 <a href="https://itsShnik.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome"></a>
