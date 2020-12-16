@@ -8,8 +8,8 @@
 <br/>
 
 <a href="https://github.com/yash12khandelwal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsShnik&theme=gruvbox&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsShnik&theme=gruvbox&layout=compact&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yash12khandelwal&theme=gruvbox&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash12khandelwal&theme=gruvbox&layout=compact&count_private=true" />
 </a>
 
 <br/>
